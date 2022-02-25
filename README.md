@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="240" src="./image/Rikka.gif">  
   
 ### Github Status ☕  
+
 [![TuanKay10's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanKay10&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages
 
 <img align='Right' src="https://profile-counter.glitch.me/TuanKay10/count.svg" width="200">
 

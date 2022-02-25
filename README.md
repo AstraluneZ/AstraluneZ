@@ -1,5 +1,4 @@
 ### Hi there! 👋
-### Hello World! 👋
 
 <!--
 **TuanKay10/TuanKay10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github Status ☕
+[![TuanKay10's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanKay10&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align='Right' src="https://profile-counter.glitch.me/TuanKay10/count.svg" width="200">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKay10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

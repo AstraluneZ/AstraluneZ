@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="Coding" width="240" src="./image/Rikka.gif">  
+<img align="right" alt="GIF" width="200" src="./image/Rikka.gif">  
   
 ### Github Status ☕  
 
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ### Languages
 
-<img align='Right' src="https://profile-counter.glitch.me/TuanKay10/count.svg" width="200">
+<img align='right' src="https://profile-counter.glitch.me/TuanKay10/count.svg" width="200">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKay10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

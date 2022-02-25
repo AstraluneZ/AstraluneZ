@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="Coding" width="240" src="http://5b0988e595225.cdn.sohucs.com/images/20171209/fc34a6e93bb146f591b959efe17da6c6.gif">  
+<img align="right" alt="Coding" width="240" src="./image/Rikka.gif">  
   
 ### Github Status ☕  
 [![TuanKay10's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanKay10&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

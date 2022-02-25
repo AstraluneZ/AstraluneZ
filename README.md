@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" alt="GIF" width="200" src="./image/Rikka.gif">  
+<img align="" alt="GIF" width="200" src="./image/Rikka.gif">  
   
 ### Github Status ☕  
 

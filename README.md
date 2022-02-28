@@ -3,7 +3,7 @@
 <!--
 **TuanKay10/TuanKay10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img align='right' src="https://profile-counter.glitch.me/TuanKay10/count.svg" width="200">
+<img align='right' src="https://profile-counter.glitch.me/azurstar/count.svg" width="200">
 
 Here are some ideas to get you started:
 
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   
 ### Github Status ☕  
 
-[![TuanKay10's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanKay10&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![azurstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=azurstar&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKay10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azurstar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

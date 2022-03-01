@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### Languages 💻
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azurstar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

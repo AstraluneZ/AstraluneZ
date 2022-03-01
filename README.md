@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="" alt="GIF" width="200" src="./image/Rikka.gif">  
-  
+![:azurstar](https://count.getloli.com/get/@:azurstar)  
+
 ### Github Status ☕  
 
 [![azurstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=azurstar&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
